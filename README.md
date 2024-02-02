@@ -19,9 +19,8 @@ To run this project locally, follow these steps:
   cd weather-forecast-app
   
 3.Install dependencies:
-  npm install
-
-4.Add a Constants.js file and add your API_KEY
+  npm install.
+4.Add your API_KEY
 
 5.Start the application:
   npm start
